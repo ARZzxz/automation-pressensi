@@ -1,0 +1,13 @@
+# Katalon
+**/bin/
+**/Libs/
+**/.settings/
+**/.classpath
+**/.project
+**/Reports/
+**/TempTestCase*
+**/*.log
+
+# OS
+.DS_Store
+Thumbs.db
